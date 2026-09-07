@@ -15,7 +15,7 @@ namespace CodeStage.AntiCheat.EditorCode.PostProcessors
 	using System.Security.Cryptography;
 	using Common;
 	using Genuine.CodeHash;
-	using ICSharpCode.SharpZipLib.Zip;
+	using Unity.SharpZipLib.Zip;
 	using UnityEditor;
 	using UnityEditor.Build;
 	using UnityEditor.Build.Reporting;

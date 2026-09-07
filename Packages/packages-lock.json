@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.dotween": {
+      "version": "https://github.com/thinhnv-percas/DoTween.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "67594467a870b2e0f01df5ce7e3b29283ff660a4"
+    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
@@ -67,6 +74,13 @@
     },
     "com.unity.ide.vscode": {
       "version": "1.2.5",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.sharp-zip-lib": {
+      "version": "1.4.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
